@@ -17,7 +17,6 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - I am honored to have participated in the writing of the book "深度神经网络高效计算" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
 ## Awards
-
 - **Outstanding Reviewer**, CVPR 2024
   - <small>Recognized among the top 2% of reviewers</small>
 - **Top Reviewer**, NeurIPS 2023
@@ -60,9 +59,25 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - [APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers](http://openaccess.thecvf.com/content/CVPR2022/html/Lu_APRIL_Finding_the_Achilles_Heel_on_Privacy_for_Vision_Transformers_CVPR_2022_paper.html)
   - Jiahao Lu, Xi Sheryl Zhang, Tianli Zhao, **Xiangyu He**, Jian Cheng
   - Computer Vision and Pattern Recognition (CVPR), 2022
+- [Optimization-based Post-training Quantization with Bit-split and Stitching](https://ieeexplore.ieee.org/abstract/document/9735379/)
+  - Peisong Wang, Weihan Chen, **Xiangyu He**, Qiang Chen, Qingshan Liu, Jian Cheng
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
+  - [Code](https://github.com/peiswang/BitSplit)
 - [Generative Zero-shot Network Quantization](http://openaccess.thecvf.com/content/CVPR2021W/ECV/html/He_Generative_Zero-Shot_Network_Quantization_CVPRW_2021_paper.html)
   - **Xiangyu He**, Jiahao Lu, Weixiang Xu, Qinghao Hu, Peisong Wang, Jian Cheng
   - Conference on Computer Vision and Pattern Recognition Workshop (CVPRw), 2021
+- [Dynamic Dual Gating Neural Networks](http://openaccess.thecvf.com/content/ICCV2021/html/Li_Dynamic_Dual_Gating_Neural_Networks_ICCV_2021_paper.html)
+  - Fanrong Li, Gang Li, **Xiangyu He**, Jian Cheng
+  - International Conference on Computer Vision (ICCV), 2021
+  - [Code](https://github.com/CAS-CLab/DGNet), *Oral*
+- [Skeleton-based Action Recognition with Shift Graph Convolutional Network](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.html)
+  - Ke Cheng, Yifan Zhang, **Xiangyu He**, Weihan Chen, Jian Cheng, Hanqing Lu
+  - Computer Vision and Pattern Recognition (CVPR), 2020
+  - [Code](https://github.com/kchengiva/Shift-GCN), *Oral*
+- [Towards Accurate Post-training Network Quantization via Bit-split and Stitching](http://proceedings.mlr.press/v119/wang20c.html)
+  - Peisong Wang, Qiang Chen, **Xiangyu He**, Jian Cheng
+  - International Conference on Machine Learning (ICML), 2020
+  - [Code](https://github.com/peiswang/BitSplit)
 - [Unsupervised Network Quantization via Fixed-Point Factorization](https://ieeexplore.ieee.org/abstract/document/9147065/)
   - Peisong Wang, **Xiangyu He**, Qiang Chen, Anda Cheng, Qingshan Liu, Jian Cheng
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020
@@ -70,14 +85,14 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - [Sparsity-inducing Binarized Neural Networks](https://aaai.org/ojs/index.php/AAAI/article/view/6900)
   - Peisong Wang\*, **Xiangyu He***, Gang Li, Tianli Zhao, Jian Cheng
   - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020
-  - [Code](https://github.com/peiswang/SiBNN), *Spotlight Paper*
+  - [Code](https://github.com/peiswang/SiBNN), *Spotlight*
 - [Soft Threshold Ternary Networks](https://arxiv.org/abs/2204.01234)
   - Weixiang Xu, **Xiangyu He**, Tianli Zhao, Qinghao Hu, Peisong Wang, Jian Cheng
   - International Joint Conference on Artificial Intelligence (IJCAI), 2020
 - [Proxybnn: Learning Binarized Neural Networks via Proxy Matrices](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_14)
   - **Xiangyu He**, Zitao Mo, Ke Cheng, Weixiang Xu, Qinghao Hu, Peisong Wang, Qingshan Liu, Jian Cheng
   - European Conference on Computer Vision (ECCV), 2020
-  - *Spotlight Paper*
+  - *Spotlight*
 - [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/abs/1911.05250)
   - **Xiangyu He**, Zitao Mo, Qiang Chen, Anda Cheng, Peisong Wang, Jian Cheng
   - Tech report, November 2019
@@ -101,3 +116,10 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
   - **Xiangyu He**, Jian Cheng
   - European Conference on Computer Vision (ECCV), 2018
   - [Code](https://github.com/CAS-CLab/Label-free-Network-Compression)
+
+## Honor
+- Outstanding New Employee Award of the Autonomous Vehicle Delivery Department, Meituan 2023
+- National Scholarship, CASIA 2020
+
+## Academic Activity
+- Reviewer of CVPR, ECCV, ICCV, ICML, NeurIPS, ICLR, AAAI, WACV, ACCV, IJCV, TIP
