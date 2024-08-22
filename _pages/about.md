@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an algorithm engineer specializing in E-commerce search at Meituan (美团) as of August 2024. My research spans a broad spectrum of topics including computer vision and deep learning-based model compression. Throughout my career, I have been dedicated to advancing autonomous driving through visual perception. For some reason, I shifted my focus to generative search utilizing large language models (LLM).
+I am an algorithm engineer specializing in E-commerce search at [Meituan (美团)](https://www.meituan.com/en-US/about-us) as of August 2024. My research spans a broad spectrum of topics including computer vision and deep learning-based model compression. Throughout my career, I have been dedicated to advancing autonomous driving through visual perception. For some reason, I shifted my focus to generative search utilizing large language models (LLM).
 
 Previously, I worked on high-performance computing for deep neural networks on edge devices during my internship at [Maicro](https://www.maicro.com/). This included the development of neural network inference frameworks on ARM chips and the algorithm verification of the [Quantized Neural Process Unit (QNPU)](http://www.semiinsights.com/s/foundry/33/36933.shtml). Currently, I am exploring the field of Artificial Intelligence (AI) Inclusive Education.
 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
 ## News
-- I am honored to have participated in the writing of the book "深度神经网络高效计算" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
+- I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
 ## Awards
 - **Outstanding Reviewer**, CVPR 2024
@@ -56,6 +56,7 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - [Towards Fully Sparse Training: Information Restoration with Spatial Similarity](https://ojs.aaai.org/index.php/AAAI/article/view/20198)
   - Weixiang Xu, **Xiangyu He**, Ke Cheng, Peisong Wang, Jian Cheng
   - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2022
+  - [Code](https://github.com/WeixiangXu/FST)
 - [APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers](http://openaccess.thecvf.com/content/CVPR2022/html/Lu_APRIL_Finding_the_Achilles_Heel_on_Privacy_for_Vision_Transformers_CVPR_2022_paper.html)
   - Jiahao Lu, Xi Sheryl Zhang, Tianli Zhao, **Xiangyu He**, Jian Cheng
   - Computer Vision and Pattern Recognition (CVPR), 2022
@@ -123,4 +124,4 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - National Scholarship, CASIA 2020
 
 ## Academic Activity
-- Reviewer of CVPR, ECCV, ICCV, ICML, NeurIPS, ICLR, AAAI, WACV, ACCV, IJCV, TIP
+- Reviewer: CVPR, ECCV, ICCV, ICML, NeurIPS, ICLR, AAAI, WACV, ACCV, IJCV, TIP
