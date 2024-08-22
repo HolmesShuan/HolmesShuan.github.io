@@ -49,7 +49,7 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022
   - [Code](https://github.com/peiswang/SiBNN), *Co-First Author*
 - [Revisiting L1 Loss in Super-Resolution: A Probabilistic View and Beyond](https://arxiv.org/abs/2201.10084)
-  - Xiangyu He, Jian Cheng
+  - **Xiangyu He**, Jian Cheng
   - Tech report, January 2022
 - [Towards Fully Sparse Training: Information Restoration with Spatial Similarity](https://ojs.aaai.org/index.php/AAAI/article/view/20198)
   - Weixiang Xu, **Xiangyu He**, Ke Cheng, Peisong Wang, Jian Cheng
