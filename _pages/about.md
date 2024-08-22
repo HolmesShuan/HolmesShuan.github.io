@@ -13,6 +13,9 @@ Previously, I worked on high-performance computing for deep neural networks on e
 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
+## News
+- I am honored to have participated in the writing of the book "深度神经网络高效计算" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
+
 ## Awards
 
 - **Outstanding Reviewer**, CVPR 2024
