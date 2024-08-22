@@ -16,23 +16,23 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 ## Awards
 
 - **Outstanding Reviewer**, CVPR 2024
-  - Recognized among the top 2% of reviewers
+  - <small>Recognized among the top 2% of reviewers</small>
 - **Top Reviewer**, NeurIPS 2023
-  - Ranked among the top 10.2% of reviewers (1,197 out of 11,725)
+  - <small>Ranked among the top 10.2% of reviewers (1,197 out of 11,725)</small>
 - **Top Reviewer**, NeurIPS 2022
-  - Ranked among the top 10.7% of reviewers (1,101 out of 10,334); invited as session chair
+  - <small>Ranked among the top 10.7% of reviewers (1,101 out of 10,334); invited as session chair</small>
 - **Outstanding Reviewer**, ICML 2022
-  - Recognized among the top 10% of reviewers; invited as session chair
+  - <small>Recognized among the top 10% of reviewers; invited as session chair</small>
 - **Winner**, MicroNet: Large-Scale Model Compression Competition, ImageNet Track
-  - Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019
+  - <small>Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019</small>
 - **Winner**, MicroNet: Large-Scale Model Compression Competition, CIFAR Track
-  - Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019
+  - <small>Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019</small>
 - **Winner**, Challenge on Learned ISP
-  - Organized by ETH, Google, Adobe, Nvidia, Huawei, Qualcomm @ ECCV AIM (Advances in Image Manipulation) 2020
+  - <small>Organized by ETH, Google, Adobe, Nvidia, Huawei, Qualcomm @ ECCV AIM (Advances in Image Manipulation) 2020</small>
 - **Runner-up**, Efficient Super-Resolution Challenge
-  - Organized by ETH, Google, Adobe, Nvidia, Huawei, Qualcomm @ ECCV AIM (Advances in Image Manipulation) 2020
+  - <small>Organized by ETH, Google, Adobe, Nvidia, Huawei, Qualcomm @ ECCV AIM (Advances in Image Manipulation) 2020</small>
 - **Runner-up**, Lightweight Face Recognition Challenge & Workshop, DeepGlint Light Track
-  - Organized by DeepGlint, iQIYI, Imperial College London @ ICCV 2019
+  - <small>Organized by DeepGlint, iQIYI, Imperial College London @ ICCV 2019</small>
 
 
 ## Publications
