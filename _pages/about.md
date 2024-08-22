@@ -89,6 +89,7 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - [Soft Threshold Ternary Networks](https://arxiv.org/abs/2204.01234)
   - Weixiang Xu, **Xiangyu He**, Tianli Zhao, Qinghao Hu, Peisong Wang, Jian Cheng
   - International Joint Conference on Artificial Intelligence (IJCAI), 2020
+  - [Code](https://github.com/WeixiangXu/STTN)
 - [Proxybnn: Learning Binarized Neural Networks via Proxy Matrices](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_14)
   - **Xiangyu He**, Zitao Mo, Ke Cheng, Weixiang Xu, Qinghao Hu, Peisong Wang, Qingshan Liu, Jian Cheng
   - European Conference on Computer Vision (ECCV), 2020
