@@ -73,7 +73,7 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
   - International Joint Conference on Artificial Intelligence (IJCAI), 2020
 - [Proxybnn: Learning Binarized Neural Networks via Proxy Matrices](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_14)
   - **Xiangyu He**, Zitao Mo, Ke Cheng, Weixiang Xu, Qinghao Hu, Peisong Wang, Qingshan Liu, Jian Cheng
-  - European Conference on Computer Vision (ECCV)
+  - European Conference on Computer Vision (ECCV), 2020
   - *Spotlight Paper*
 - [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/abs/1911.05250)
   - **Xiangyu He**, Zitao Mo, Qiang Chen, Anda Cheng, Peisong Wang, Jian Cheng
