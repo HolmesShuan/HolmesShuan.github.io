@@ -21,7 +21,7 @@ repository               : "holmesshuan/holmesshuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "citations.png"
   name             : "Xiangyu He"
   pronouns         : # example: "she/her"  
   bio              : "若不执实何妨得 如能知空哪怕失"
