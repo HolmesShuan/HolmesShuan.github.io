@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently the co-founder of FunAmi AI, a company dedicated to promoting inclusive education through artificial intelligence (AI). Previously, I worked as an algorithm engineer specializing in E-commerce search at Meituan (美团). My research covers a wide range of topics, including computer vision and deep learning-based model compression. Throughout my career, I have been committed to advancing autonomous driving through visual perception. Then, I shifted my focus to generative search utilizing large language models (LLM) for various reasons.
+I am currently the co-founder of FunAmi AI, a company dedicated to promoting inclusive education through artificial intelligence (AI). Previously, I worked as an algorithm engineer specializing in E-commerce search at [Meituan (美团)](https://www.meituan.com/en-US/about-us). My research covers a wide range of topics, including computer vision and deep learning-based model compression. Throughout my career, I have been committed to advancing [autonomous driving](https://mad.meituan.com/) through visual perception. Then, I shifted my focus to generative search utilizing large language models (LLM) for various reasons.
 
 I worked on high-performance computing for deep neural networks on edge devices during my internship at [Maicro](https://www.maicro.com/). This included the development of neural network inference frameworks on ARM chips and the algorithm verification of the [Quantized Neural Process Unit (QNPU)](http://www.semiinsights.com/s/foundry/33/36933.shtml).
 
