@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently the co-founder of FunAmi AI, a company dedicated to promoting inclusive education through artificial intelligence (AI). Previously, I worked as an algorithm engineer specializing in E-commerce search at [Meituan (美团)](https://www.meituan.com/en-US/about-us). My research covers a wide range of topics, including computer vision and deep learning-based model compression. Throughout my career, I have been committed to advancing [autonomous driving](https://mad.meituan.com/) through visual perception. Then, I shifted my focus to generative search utilizing large language models (LLM) for various reasons.
+I am currently the co-founder of [FunAmi AI](https://funami.cn/#about), a company dedicated to promoting inclusive education through artificial intelligence (AI). Previously, I worked as an algorithm engineer specializing in E-commerce search at [Meituan (美团)](https://www.meituan.com/en-US/about-us). My research covers a wide range of topics, including computer vision and deep learning-based model compression. Throughout my career, I have been committed to advancing [autonomous driving](https://mad.meituan.com/) through visual perception. Then, I shifted my focus to generative search utilizing large language models (LLM) for various reasons.
 
 I worked on high-performance computing for deep neural networks on edge devices during my internship at [Maicro](https://www.maicro.com/). This included the development of neural network inference frameworks on ARM chips and the algorithm verification of the [Quantized Neural Process Unit (QNPU)](http://www.semiinsights.com/s/foundry/33/36933.shtml).
 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
-## News
+## Publications
 - I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
 ## Awards
