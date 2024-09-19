@@ -13,9 +13,6 @@ I worked on high-performance computing for deep neural networks on edge devices 
 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
-## Publications
-- I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
-
 ## Awards
 - **Outstanding Reviewer**, CVPR 2024
   - <small>Recognized among the top 2% of reviewers</small>
@@ -36,8 +33,10 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - **Runner-up**, Lightweight Face Recognition Challenge & Workshop, DeepGlint Light Track
   - <small>Organized by DeepGlint, iQIYI, Imperial College London @ ICCV 2019</small>
 
+## Authored Book
+- I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
-## Select Publications
+## Selected Papers
 - [Z* : Zero-shot Style Transfer via Attention Reweighting](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)
   - Yingying Deng\*, **Xiangyu He***, Fan Tang, Weiming Dong 
   - Computer Vision and Pattern Recognition (CVPR), 2024
