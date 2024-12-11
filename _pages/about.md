@@ -13,6 +13,9 @@ I worked on high-performance computing for deep neural networks on edge devices 
 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
+## News
+- In my free time, I explored the ReFlow model and proposed an embarrassingly simple method to accelerate the inversion and editing process in semantic image editing, based on the FLUX model. The results are promising, achieving a 3x speedup wtih comparable results. For more details, please refer to [FireFlow](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing).
+
 ## Awards
 - **Outstanding Reviewer**, CVPR 2024
   - <small>Recognized among the top 2% of reviewers</small>
