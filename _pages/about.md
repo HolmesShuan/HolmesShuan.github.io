@@ -40,6 +40,9 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
 ## Selected Papers
+- Z-Magic: Zero-shot Multiple Attributes Guided Image Creator
+  - Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong 
+  - Computer Vision and Pattern Recognition (CVPR), 2025
 - [Z* : Zero-shot Style Transfer via Attention Reweighting](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)
   - Yingying Deng\*, **Xiangyu He***, Fan Tang, Weiming Dong 
   - Computer Vision and Pattern Recognition (CVPR), 2024
