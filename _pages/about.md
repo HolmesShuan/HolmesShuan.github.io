@@ -13,8 +13,6 @@ I worked on high-performance computing for deep neural networks on edge devices 
 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
-## News
-- In my free time, I explored the ReFlow model and proposed an embarrassingly simple method to accelerate the inversion and editing process in semantic image editing, based on the FLUX model. The results are promising, achieving a 3x speedup wtih comparable results. For more details, please refer to [FireFlow](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing).
 
 ## Awards
 - **Outstanding Reviewer**, CVPR 2024
@@ -40,6 +38,10 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
 ## Selected Papers
+- [FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing](https://arxiv.org/abs/2412.07517)
+  - Yingying Deng, **Xiangyu He***, Changwang Mei, Peisong Wang, Fan Tang
+  - International Conference on Machine Learning (ICML), 2025
+  - [Code](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing), *Corresponding Author*
 - [Z-Magic: Zero-shot Multiple Attributes Guided Image Creator](https://arxiv.org/abs/2503.12124)
   - Yingying Deng\*, **Xiangyu He***, Fan Tang, Weiming Dong
   - Computer Vision and Pattern Recognition (CVPR), 2025
