@@ -38,10 +38,14 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
 
 ## Selected Papers
+- [Multi-turn Consistent Image Editing](https://arxiv.org/abs/2505.04320)
+  - Zijun Zhou, Yingying Deng, **Xiangyu He**, Weiming Dong, Fan Tang
+  - International Conference on Computer Vision (ICCV), 2025
+  - [Code](https://github.com/ZhouZJ-DL/Multi-turn_Consistent_Image_Editing), [Project](https://zhouzj-dl.github.io/Multi-turn_Consistent_Image_Editing/)
 - [FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing](https://arxiv.org/abs/2412.07517)
   - Yingying Deng, **Xiangyu He***, Changwang Mei, Peisong Wang, Fan Tang
   - International Conference on Machine Learning (ICML), 2025
-  - [Code](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing), *Corresponding Author*
+  - [Code](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing), [Demo](https://huggingface.co/spaces/MagicBag/FireFlow),  *Corresponding Author*
 - [Z-Magic: Zero-shot Multiple Attributes Guided Image Creator](https://arxiv.org/abs/2503.12124)
   - Yingying Deng\*, **Xiangyu He***, Fan Tang, Weiming Dong
   - Computer Vision and Pattern Recognition (CVPR), 2025
