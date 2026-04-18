@@ -14,7 +14,9 @@ I worked on high-performance computing for deep neural networks on edge devices 
 I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022, under the esteemed guidance of Prof. [Jian Cheng](https://people.ucas.ac.cn/~chengjian). I received my B.S. degree from the Beijing University of Posts and Telecommunications (BUPT) in 2017.
 
 
-## Awards
+## Honor
+- **Top Reviewer**, ICLR 2026
+  - <small>Recognized as the "Top 200 Reviewers"</small>
 - **Outstanding Reviewer**, CVPR 2024
   - <small>Recognized among the top 2% of reviewers</small>
 - **Top Reviewer**, NeurIPS 2023
@@ -23,6 +25,8 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
   - <small>Ranked among the top 10.7% of reviewers (1,101 out of 10,334); invited as session chair</small>
 - **Outstanding Reviewer**, ICML 2022
   - <small>Recognized among the top 10% of reviewers; invited as session chair</small>
+
+## Award
 - **Winner**, MicroNet: Large-Scale Model Compression Competition, ImageNet Track
   - <small>Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019</small>
 - **Winner**, MicroNet: Large-Scale Model Compression Competition, CIFAR Track
@@ -33,6 +37,7 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
   - <small>Organized by ETH, Google, Adobe, Nvidia, Huawei, Qualcomm @ ECCV AIM (Advances in Image Manipulation) 2020</small>
 - **Runner-up**, Lightweight Face Recognition Challenge & Workshop, DeepGlint Light Track
   - <small>Organized by DeepGlint, iQIYI, Imperial College London @ ICCV 2019</small>
+- **National Scholarship**, Chinese Academy of Sciences 2020
 
 ## Authored Book
 - I am honored to have participated in the writing of the book "[深度神经网络高效计算](https://www.phei.com.cn/module/wap/sbookcd.jsp?goodid=65351)" by the [CLab](https://clab.ia.ac.cn/) team. After more than two years of preparation, the book has finally been published.
@@ -130,10 +135,6 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
   - **Xiangyu He**, Jian Cheng
   - European Conference on Computer Vision (ECCV), 2018
   - [Code](https://github.com/CAS-CLab/Label-free-Network-Compression)
-
-## Honor
-- Outstanding New Employee Award of the Autonomous Vehicle Delivery Department, Meituan 2023
-- National Scholarship, CASIA 2020
 
 ## Academic Activity
 - Reviewer: CVPR, ECCV, ICCV, ICML, NeurIPS, ICLR, AAAI, WACV, ACCV, IJCV, TIP
