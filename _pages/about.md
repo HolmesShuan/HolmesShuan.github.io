@@ -15,21 +15,20 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 
 
 ## Honor
-- **Top Reviewer**, ICLR 2026
-  - <small>Recognized as the "Top 200 Reviewers"</small>
-- **Outstanding Reviewer**, CVPR 2024
-  - <small>Recognized among the top 2% of reviewers</small>
-- **Top Reviewer**, NeurIPS 2023
-  - <small>Ranked among the top 10.2% of reviewers (1,197 out of 11,725)</small>
-- **Top Reviewer**, NeurIPS 2022
-  - <small>Ranked among the top 10.7% of reviewers (1,101 out of 10,334); invited as session chair</small>
-- **Outstanding Reviewer**, ICML 2022
-  - <small>Recognized among the top 10% of reviewers; invited as session chair</small>
+- **Outstanding Reviewer**
+  - *ICML 2022*, <small>Recognized among the top 10% of reviewers; invited as session chair</small>
+  - *CVPR 2024*, <small>Recognized among the top 2% of reviewers</small>
+- **Gold Reviewer**
+  - *ICML 2026*, <small>Top 25% of reviewers in both main track and position paper track</small>
+- **Top Reviewer**
+  - *NeurIPS 2022*, <small>Ranked among the top 10.7% of reviewers (1,101 out of 10,334); invited as session chair</small>
+  - *NeurIPS 2023*, <small>Ranked among the top 10.2% of reviewers (1,197 out of 11,725)</small>
+  - *ICLR 2026*, <small>Recognized as the "Top 200 Reviewers"</small>
 
 ## Award
-- **Winner**, MicroNet: Large-Scale Model Compression Competition, ImageNet Track
+- **Winner**, [MicroNet: Large-Scale Model Compression Competition](https://micronet-challenge.github.io/), ImageNet Track
   - <small>Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019</small>
-- **Winner**, MicroNet: Large-Scale Model Compression Competition, CIFAR Track
+- **Winner**, [MicroNet: Large-Scale Model Compression Competition](https://micronet-challenge.github.io/), CIFAR Track
   - <small>Organized by Google Research, DeepMind, OpenAI, Facebook @ NeurIPS 2019</small>
 - **Winner**, Challenge on Learned ISP
   - <small>Organized by ETH, Google, Adobe, Nvidia, Huawei, Qualcomm @ ECCV AIM (Advances in Image Manipulation) 2020</small>
