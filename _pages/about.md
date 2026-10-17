@@ -18,6 +18,7 @@ I earned my Ph.D. from the Institute of Automation, Chinese Academy of Sciences 
 - **Outstanding Reviewer**
   - *ICML 2022*, <small>Recognized among the top 10% of reviewers; invited as session chair</small>
   - *CVPR 2024*, <small>Recognized among the top 2% of reviewers</small>
+  - *CVPR 2026*, <small>Placed in the top 5% of the 17,491 total reviewers</small>
 - **Gold Reviewer**
   - *ICML 2026*, <small>Top 25% of reviewers in both main track and position paper track</small>
 - **Top Reviewer**
